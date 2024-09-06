@@ -3,3 +3,4 @@
 ## Monitoramento climático 
 ### Projeto de obtenção e filtragem dos dados climáticos exportado e testado
 ### Arquivo xslx gerado
+### Avaliação da transferência pro xslx principal + otimização das células do arquivo
