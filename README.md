@@ -7,3 +7,4 @@
 ### Inclussão das outras cidades nos input + teste de tabela dinãmica e gráfico no .xlsx
 ### Inclusão de novos gráficos
 ### Novas Análises
+### Análises de linha do tempo
