@@ -8,3 +8,4 @@
 ### Inclusão de novos gráficos
 ### Novas Análises
 ### Análises de linha do tempo
+### Apuração de análise
