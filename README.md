@@ -13,3 +13,4 @@
 ### Atualização diária - (sab) 14/09/24
 ### Atualização diária - (dom) 15/09/24
 ### Atualização semanal - (seg) 23/09/24
+### Atualização semanal - (seg) 30/09/24
