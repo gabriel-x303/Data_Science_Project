@@ -15,3 +15,4 @@
 ### Atualização semanal - (seg) 23/09/24
 ### Atualização semanal - (seg) 30/09/24
 ### Atualização semanal - (seg) 14/10/24
+### Atualização semanal - (seg) 21/10/24
