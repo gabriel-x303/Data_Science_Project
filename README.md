@@ -18,3 +18,5 @@
 ### Atualização semanal - (seg) 21/10/24
 ### Atualização semanal - (ter) 05/11/24
 ### Atualização semanal - (seg) 11/11/24
+
+## Atualização de inclusão das colunas 'mês' e 'ano' + inclusão de novos gráficos e adaptação dos códigos
