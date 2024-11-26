@@ -22,3 +22,4 @@
 ## Atualização de inclusão das colunas 'mês' e 'ano' + inclusão de novos gráficos e adaptação dos códigos
 
 ### Atualização semanal - (seg) 18/11/24
+### Atualização semanal - (seg) 26/11/24
